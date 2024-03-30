@@ -25,8 +25,8 @@
 
 
 <div display=flex width=100%>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodw123br&layout=donut&theme=nightowl&locale=pt-br">
-  <img width=100% src="https://github-readme-stats.vercel.app/api?username=Brunodw123br&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br">
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodw123br&layout=donut&theme=nightowl&locale=pt-br">
+  <img width=57% src="https://github-readme-stats.vercel.app/api?username=Brunodw123br&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br">
 </div>
 
 
