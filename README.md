@@ -24,9 +24,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 
-<div display=flex>
-  <img width=450px height=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodw123br&layout=donut&theme=nightowl&locale=pt-br">
-  <img width=450px height=300px src="https://github-readme-stats.vercel.app/api?username=Brunodw123br&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br">
+<div display=flex width=100%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodw123br&layout=donut&theme=nightowl&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunodw123br&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br">
 </div>
 
 
