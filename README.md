@@ -3,13 +3,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&textBg=false&descAlign=38&descSize=0">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-silva-50034029b/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brunodw123/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-50034029b/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brunodw123/) 
 
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
@@ -26,7 +26,7 @@
 
 <div display=flex width=100%>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodw123br&layout=donut&theme=nightowl&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunodw123br&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br">
+  <img width=100% src="https://github-readme-stats.vercel.app/api?username=Brunodw123br&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br">
 </div>
 
 
